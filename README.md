@@ -1,4 +1,6 @@
-# Hospital Performance Analytics and Forecasting
+# Data visualization and AI for hospital performance analytics and forecasting
+
+
 
 ## Project Overview
 
