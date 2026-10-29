@@ -26,11 +26,7 @@ The analysis focuses on the following indicators:
 - Prepare data for predictive modeling.
 - Evaluate forecasting models to support hospital planning and decision-making.
 
-## How to Run
+## Data utilized in this project is confidential
 
-Open the notebook in [Google Colab](https://colab.research.google.com/) or Jupyter Notebook and run the cells sequentially.
 
-## Expected Outcome
-
-This project aims to demonstrate how data analytics, visualization, and forecasting can help monitor hospital performance, anticipate healthcare service demand, and support evidence-based operational planning.
 
